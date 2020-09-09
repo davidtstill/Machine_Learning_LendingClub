@@ -5,7 +5,6 @@ This analysis focuses on building and evaluating several machine-learning models
 In the credit_risk_resampling file I utilize the imbalanced learn library to resample the LendingClub data and build and evaluate logistic regression classifiers using the resampled data.
 
 In the credit_risk_ensemble file I compare two different ensemble classifiers to predict loan risk and evaluate each model.
-- oversample the data using Naive Random Oversampler and SMOTE algorithms.
 
 ## Key Questions and Conclusions in Resampling Analysis:
 1. Which model had the best balanced accuracy score?
